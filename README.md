@@ -5,4 +5,5 @@
 5. Math final- This code analyses the patterns and disributions (using mathematics) in traffic data and makes predictions using SVM and GPR
 6. PHY_QUANT_GATES- Implementation of Shor's algorithm (using Python)
 7. SnakeandLadder- A simulation of the popular 'Snakes and Ladders Game' (using Java)
-8. sensitivity- Analyses the sentiment of various messages and classifies them as positive, negative or neutral
+8. new- aids object detection (speed and distance) using the YOLO algorithm
+9. sensitivity- Analyses the sentiment of various messages and classifies them as positive, negative or neutral
